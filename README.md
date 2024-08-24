@@ -21,9 +21,9 @@
 - **Neural Networks & Deep Learning:** Currently expanding my knowledge in neural networks and deep learning, exploring how these technologies can be used to solve real-world problems.
 
 - **Project Developer:** Some of my notable projects include:
-  - An **AI-based Traffic Management System** designed to optimize traffic flow using machine learning.
+  - An **AI-based Traffic Management System** (in development) designed to optimize traffic flow using machine learning.
   - A **YouTube Content Fetcher**, a script that automates the process of fetching YouTube content and videos.
-  - A **Text Editor** (still in development), which is a personal project aimed at enhancing my skills in system programming.
+  - A **Text Editor** (in development), which is a personal project aimed at enhancing my skills in system programming.
 
 - **Open Source Advocate:** Passionate about contributing to the open-source community, sharing my work, and collaborating with others.
 
