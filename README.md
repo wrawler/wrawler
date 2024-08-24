@@ -1,10 +1,20 @@
 ---
-## About Me
+# 😃 About Me
 
 
 👋 Hello! I'm **Arashdeep Singh** (also known as wrawler), a passionate programmer with a deep interest in mastering C++, neural networks, and deep learning. I'm on a continuous journey to explore the vast world of technology, always eager to learn, create, and contribute.
 
-### 💻 What I Do
+---
+
+## 🖥️ Tech Stack
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
+
+---
+
+## 💻 What I Do
 
 - **C++ Enthusiast:** Dedicated to mastering C++ through building projects, solving complex problems, and diving into advanced concepts.
 
@@ -19,23 +29,15 @@
 
 - **Avid Linux User:** I love working with Linux, appreciating its flexibility, power, and the sense of community it fosters.
 
-### 🌱 Learning Journey
+---
 
-Every day presents a new opportunity to grow. I'm currently focusing on:
+## 🏅 Badges
 
-- **Advanced C++ Concepts:** Delving deeper into topics like memory management, concurrency, and template programming.
-  
-- **Neural Networks & Deep Learning:** Enhancing my understanding of machine learning algorithms, neural network architectures, and practical applications in AI.
-  
-- **Software Design Patterns:** Exploring design patterns to create scalable, maintainable, and efficient software.
-  
-- **Geopolitical Studies:** Continuing to explore the intersection of global events and technology.
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/wrawler"><img src="https://github-readme-stats.vercel.app/api?username=wrawler&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wrawler's GitHub stats" /></a>
 
-### 🎶 My Passions
-
-- **Music Lover:** Music is a big part of my life, providing inspiration and balance.
-- **Linux Enthusiast:** I enjoy the power and flexibility of Linux, which plays a central role in my development environment and workflow.
+<a href="http://www.github.com/wrawler"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wrawler&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
 
@@ -43,15 +45,8 @@ Every day presents a new opportunity to grow. I'm currently focusing on:
 
 Feel free to connect with me on GitHub or reach out through the following channels:
 
-- **Email:** mangoshake5888@gmail.com
-- **LinkedIn:** [wrawler](https://www.linkedin.com/in/wrawler/)
-- **Twitter:** [Wrawler17583](https://x.com/Wrawler17583)
-- **Instagram** [wrawler5888](https://www.instagram.com/wrawler5888/)
+<p align="left"> <a href="https://www.github.com/wrawler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/wrawler5888" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/wrawler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Wrawler17583" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
----
-
-### 🌍 Let's Connect
-
-I’m always open to discussing programming, neural networks, C++, geopolitics, or anything interesting. Collaboration and learning from others are crucial parts of my journey. Let’s connect and grow together!
+<p style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/wrawler"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
 
 ---
