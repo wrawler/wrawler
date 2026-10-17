@@ -1,33 +1,34 @@
 ---
-# 😃 About Me
+# About Me
 
-
-👋 Hello! I'm **Arashdeep Singh** (also known as wrawler), a passionate programmer with a deep interest in mastering C++, neural networks, and deep learning. I'm on a continuous journey to explore the vast world of technology, always eager to learn, create, and contribute.
+Systems and infrastructure-minded developer working across C++, Linux internals, and Cloud/DevOps. I enjoy low-level architecture as much as building practical automation and exploring applied deep learning.
 
 ---
 
 ## 🖥️ Tech Stack
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+**Cloud & Infrastructure:**  
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Automation, CI/CD & Development:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
+---
 
-## 💻 What I Do
+### 💻 What I Do
 
-- **C++ Enthusiast:** Dedicated to mastering C++ through building projects, solving complex problems, and diving into advanced concepts.
-
-- **Neural Networks & Deep Learning:** Currently expanding my knowledge in neural networks and deep learning, exploring how these technologies can be used to solve real-world problems.
-
-- **Project Developer:** Some of my notable projects include:
-  - An **AI-based Traffic Management System** (in development) designed to optimize traffic flow using machine learning.
-  - A **YouTube Content Fetcher**, a script that automates the process of fetching YouTube content and videos.
-  - A **Text Editor** (in development), which is a personal project aimed at enhancing my skills in system programming.
-
-- **Open Source Advocate:** Passionate about contributing to the open-source community, sharing my work, and collaborating with others.
-
-- **Avid Linux User:** I love working with Linux, appreciating its flexibility, power, and the sense of community it fosters.
+- **Linux & Infrastructure Practitioner:** Heavy Linux enthusiast leveraging terminal-first workflows, process isolation, and bare-metal environments to understand systems down to the core.
+- **Systems & Backend Programming:** Passionate about low-level mechanics and systems design, using **C++** to build foundational software—including a custom terminal text editor.
+- **Cloud & DevOps Engineering:** Actively engineering automated workflows using **Docker, Nginx, CI/CD pipelines**, and cloud architectures backed by **Google Cloud Platform (GCP)** principles.
+- **Practical Automation:** Building utilitarian tooling, from automated YouTube content pipelines to zero-trust SSH deployment scripts.
+- **Open Source & Collaborative Building:** Big believer in open tooling, transparent infrastructure, and community-driven development.
 
 ---
 
